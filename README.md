@@ -2,7 +2,7 @@
 
 <img align="right" width="296" height="600"  src="https://github.com/raheemadamboev/shimmer-loading-modifier/blob/master/banner.gif" />
 
-A simple app that demonstrates building shimmer loading effect without libraries and making it Modifier extension function in Jetpack Compose.
+A simple app that demonstrates building shimmer loading effect without third party libraries and making it Modifier extension function in Jetpack Compose.
 
 **Shimmer Loading Modifier**
 
