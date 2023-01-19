@@ -43,7 +43,7 @@ class MainActivity : ComponentActivity() {
                     var loading by remember { mutableStateOf(true) }
 
                     LaunchedEffect(key1 = true) {
-                        delay(10_000L)
+                        delay(3_000L)
                         loading = false
                     }
 
